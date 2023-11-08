@@ -1,0 +1,7 @@
+{
+    "firstName":"Marcus",
+    "lastName":"Henriksson",
+
+    "age":30,
+    "faveColor": ["Green", "Black", "Brown", "Purple"]
+}
